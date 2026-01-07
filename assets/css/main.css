@@ -4700,3 +4700,8 @@ input, select, textarea {
     width: 100%;
   }
 }
+.post.featured .image,
+.post.featured .image img {
+  width: 100%;
+  max-width: 100%;
+}
